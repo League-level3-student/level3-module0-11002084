@@ -70,6 +70,5 @@ public class _00_ArrayCheatSheet {
 		
 		//12. print only the last element in the array
 		System.out.println(integerArray[integerArray.length - 1]);
-		
 	}
 }
